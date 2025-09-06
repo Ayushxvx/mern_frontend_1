@@ -76,9 +76,9 @@ export default function Navbar() {
               </div>
             </>
           )}
-          <div className="cursor-pointer text-center hover:underline cursor-pointer text-white m-2 underline-cyan-400">
+              {   /*<div className="cursor-pointer text-center hover:underline cursor-pointer text-white m-2 underline-cyan-400">
                 <a href="https://ayushxvxportfolio.netlify.app" target="_blank">About Me </a>
-              </div>
+              </div>*/}
         </div>
       )}
     </div>
